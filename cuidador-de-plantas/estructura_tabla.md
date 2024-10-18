@@ -1,7 +1,6 @@
 # Estructura de la Tabla de Plantas
 
 ## Estructura de la tabla:
-- **Número**: El número de la planta.
 - **Nombre de la Planta**: Nombre común o científico de la planta.
 - **Cuidados**: Descripción general de los cuidados.
 - **Estación de Crecimiento/Floración**: (1: Otoño, 2: Invierno, 3: Primavera, 4: Verano)
